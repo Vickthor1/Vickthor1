@@ -15,7 +15,7 @@
 
  ### Studying in this moment:
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align=left width=24 height=24/>
+ <img src="https://www.svgrepo.com/show/452228/html-5.svg" align=left width=24 height=24/>
  <img src="https://cdn.simpleicons.org/python/000/fff" alt="Python" align=left width=24 height=24>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align=left width=24 height=24/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" align=left width=24 height=24/>
