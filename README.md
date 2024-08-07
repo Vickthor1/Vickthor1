@@ -19,6 +19,7 @@
  <img src="https://cdn.simpleicons.org/python/000/fff" alt="Python" align=left width=24 height=24>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align=left width=24 height=24/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" align=left width=24 height=24/>
+ <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" align=left width=24 height=24/>
           
           
           
