@@ -28,6 +28,9 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vickthor1}/count.svg"/></p> 
+<p align="center">
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=Vickthor1&label=PROFILE+VIEWS)
+ </p> 
 <br>
 </div>
