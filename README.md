@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+My+name+is+Victor+Hugo;I'm+21+years+old;I'm+from+Brazil;I+student+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vickthor1&show_icons=true&count_private=true&hide_border=true&title_color=ff1100&icon_color=ff1100&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickthor1&layout=compact&hide_border=true&title_color=ff1100&text_color=ff1100&bg_color=0d1117" />
-</div>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vickthor1&bg_color=ff0000&color=ffffff&line=ccff33&point=ffff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vickthor1&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
+</p>
 
 <div align="center"> 
 <a href="https://www.instagram.com/victorfassini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -15,13 +14,12 @@
 
  ### Studying in this moment:
   <div align="center">
-  <imd src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="40"/>
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/python/000/fff" width="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" width="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width=40/>
   <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="40"/>
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="40"/>
   <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width="40"/>
   </div>
@@ -30,9 +28,10 @@
 ![Snake animation](https://github.com/Vickthor1/Vickthor1/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">
+<div align="center">
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=Vickthor1&label=PROFILE+VIEWS)
- </p> 
+<img src="https://komarev.com/ghpvc/?username=Vickthor1&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
+
+</div>
 <br>
 </div>
