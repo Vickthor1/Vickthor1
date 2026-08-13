@@ -206,7 +206,6 @@ Busco oportunidades como:
 
 <img width="95%" src="https://streak-stats.demolab.com?user=Vickthor1&background=000000&border=1F1F1F&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CFCFCF"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vickthor1&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vickthor1&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="95%" />
