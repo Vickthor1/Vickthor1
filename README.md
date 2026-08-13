@@ -1,11 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&" />
-
-# Portfolio
-<a href="https://vickthor1.github.io/portfolio/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/assets/logo.png" width="90" style="border-radius: 50%;" alt="Victor Hugo Logo" />
-</a>
+<h3 align="center">Acesse meu portfólio</h3>
+<p align="center"> <a href="https://vickthor1.github.io/portfolio/" target="_blank"> <img src="https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/assets/logo.png" width="100" alt="Victor Hugo Logo" /> </a> </p>
 
 # Victor Hugo
 
