@@ -205,12 +205,13 @@ Busco oportunidades como:
   Estatísticas do meu perfil, repositórios, linguagens e evolução no GitHub.
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vickthor1&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickthor1&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" width="43%" />
+[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<br/>
+[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<img src="https://streak-stats.demolab.com?user=Vickthor1&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br/>
 
