@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&" />
-<h3 align="center">Acesse meu portfólio</h3>
+<h3 align="center">Meu portfólio</h3>
 <p align="center"> <a href="https://vickthor1.github.io/portfolio/" target="_blank"> <img src="https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/assets/logo.png" width="100" alt="Victor Hugo Logo" /> </a> </p>
 
 # Victor Hugo
@@ -200,17 +200,17 @@ Busco oportunidades como:
   Estatísticas do meu perfil, repositórios, linguagens e evolução no GitHub.
 </p>
 
-[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickthor1&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=1F1F1F&hide_title=false&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickthor1&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=1F1F1F&langs_count=8"/>
 
-[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img width="95%" src="https://streak-stats.demolab.com?user=Vickthor1&background=000000&border=1F1F1F&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CFCFCF"/>
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vickthor1&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vickthor1&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
 
 </div>
 
