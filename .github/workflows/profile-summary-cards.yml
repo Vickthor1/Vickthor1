@@ -21,5 +21,5 @@ jobs:
         with:
           USERNAME: Vickthor1
           BRANCH_NAME: main
-          THEME: github
+          THEME: github_dark
           UTC_OFFSET: -3
