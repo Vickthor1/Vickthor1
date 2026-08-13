@@ -140,16 +140,16 @@ Busco oportunidades como:
       </a>
     </td>
     <td width="50%">
-      <h3>➕ Próximo projeto</h3>
-      <p>
-        Espaço reservado para o seu próximo projeto em destaque — atualize aqui conforme for construindo novas soluções.
-      </p>
-      <p>
-        <strong>Stack:</strong> —
-      </p>
-      <a href="https://github.com/Vickthor1">
-        <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-000000?style=for-the-badge&logo=github&logoColor=FF0000&cacheSeconds=3600" />
-      </a>
+    <h3>💱 Monitor de Moedas</h3>
+    <p>
+      Aplicação para monitoramento de cotações de moedas em tempo real, consumindo dados de APIs financeiras para acompanhar variações cambiais e fornecer consultas rápidas e atualizadas.
+    </p>
+    <p>
+      <strong>Stack:</strong> Python, APIs, Requests
+    </p>
+    <a href="https://github.com/Vickthor1/Projeto_Monitor_Moedas">
+      <img src="https://img.shields.io/badge/Acessar%20repositório-Monitor--de--Moedas-FF0000?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600" />
+    </a>
     </td>
   </tr>
 </table>
