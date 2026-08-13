@@ -1,35 +1,254 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+My+name+is+Victor+Hugo;I'm+21+years+old;I'm+from+Brazil;I+student+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vickthor1&bg_color=ff0000&color=ffffff&line=ccff33&point=ffff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vickthor1&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
-</p>
-
-<div align="center"> 
-<a href="https://www.instagram.com/victorfassini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:victorfassini21@gmail.com?subject=Contato%20profissional&body=Olá,%20Victor!%20Gostaria%20de%20falar%20sobre%20uma%20oportunidade."> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victor-hugo-fassini-de-oliveira-457653207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
- ### Studying in this moment:
-  <div align="center">
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/python/000/fff" width="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" width="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width=40/>
-  <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" width="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width="40"/>
-  </div>
-          
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vickthor1&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&" />
+
+<a href="https://vickthor1.github.io/portfolio/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/assets/logo.png" width="90" style="border-radius: 50%;" alt="Victor Hugo Logo" />
+</a>
+
+# Victor Hugo
+
+### Desenvolvedor Backend & Full Stack em formação
+#### Python • FastAPI • Laravel • PHP • JavaScript • React • Docker
+
+Construindo APIs robustas, sistemas web e soluções reais com foco em evolução profissional na área de tecnologia.
+
+<br/>
+
+<a href="https://vickthor1.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-Ver%20Projetos-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white&cacheSeconds=3600" />
+</a>
+<a href="https://www.linkedin.com/in/victor-hugo-fassini-de-oliveira-457653207" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Victor%20Hugo-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000&cacheSeconds=3600" />
+</a>
+<a href="https://github.com/Vickthor1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Vickthor1-000000?style=for-the-badge&logo=github&logoColor=FF0000&cacheSeconds=3600" />
+</a>
+<a href="mailto:victorfassini21@gmail.com?subject=Contato%20profissional&body=Olá,%20Victor!%20Gostaria%20de%20falar%20sobre%20uma%20oportunidade." target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contato-000000?style=for-the-badge&logo=gmail&logoColor=FF0000&cacheSeconds=3600" />
+</a>
+<a href="https://www.instagram.com/victorfassini/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Contato-000000?style=for-the-badge&logo=instagram&logoColor=FF0000&cacheSeconds=3600" />
+</a>
 
 </div>
-<br>
+
+---
+
+## Sobre mim
+
+Me chamo **Victor Hugo**, tenho **21 anos**, sou do **Brasil** e estou em formação em **Engenharia de Software**.
+
+Tenho estudado e desenvolvido projetos com **Python, FastAPI, Laravel, PHP, JavaScript, React, Docker e PostgreSQL**, com foco em construir APIs robustas, aplicar regras de negócio reais e escrever código testado e sustentável.
+
+Meu GitHub funciona como meu portfólio técnico, reunindo projetos criados durante meus estudos e minha evolução prática como desenvolvedor.
+
+---
+
+## Objetivo profissional
+
+Busco oportunidades como:
+
+- Desenvolvedor Backend Júnior
+- Desenvolvedor Full Stack Júnior
+- Estágio em Desenvolvimento de Software
+- Estágio em Backend / TI
+- Vagas de entrada na área de tecnologia
+
+---
+
+## Stack atual
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,js,react,docker,postgres,mysql,nginx,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>Python, FastAPI, PHP, Laravel</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Banco de Dados</strong></td>
+    <td>PostgreSQL, MySQL, SQLAlchemy, Alembic</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Front-End</strong></td>
+    <td>HTML, CSS, JavaScript, React</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Infraestrutura</strong></td>
+    <td>Docker, Docker Compose, Nginx</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Testes</strong></td>
+    <td>Pytest, cobertura de casos positivos e negativos</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Versionamento</strong></td>
+    <td>Git e GitHub</td>
+  </tr>
+</table>
+
+---
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🐾 VetClinic API</h3>
+      <p>
+        API REST completa para gestão de clínicas veterinárias, com máquina de estados para consultas, 8 regras de negócio validadas e auditoria de transições.
+      </p>
+      <p>
+        <strong>Stack:</strong> FastAPI, SQLAlchemy 2.x, PostgreSQL, Alembic, Docker
+      </p>
+      <a href="https://github.com/Vickthor1/VetClinic-API">
+        <img src="https://img.shields.io/badge/Acessar%20repositório-VetClinic--API-FF0000?style=for-the-badge&logo=fastapi&logoColor=white&cacheSeconds=3600" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🛒 Mercadinho API</h3>
+      <p>
+        API RESTful de produtos com injeção de dependência, bancos de desenvolvimento e teste isolados, e cobertura completa de testes automatizados.
+      </p>
+      <p>
+        <strong>Stack:</strong> FastAPI, SQLAlchemy, PostgreSQL, Pytest, Docker Compose
+      </p>
+      <a href="https://github.com/Vickthor1/Mercadinho-API-main">
+        <img src="https://img.shields.io/badge/Acessar%20repositório-Mercadinho--API-000000?style=for-the-badge&logo=fastapi&logoColor=FF0000&cacheSeconds=3600" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>📚 Biblioteca Digital</h3>
+      <p>
+        Sistema web para pesquisa e organização de livros favoritos, integrado à Open Library API, com cache, autorização por usuário e testes automatizados.
+      </p>
+      <p>
+        <strong>Stack:</strong> Laravel 12, MySQL, Blade
+      </p>
+      <a href="https://github.com/Vickthor1/Projeto_Biblioteca_Digital">
+        <img src="https://img.shields.io/badge/Acessar%20repositório-Biblioteca--Digital-FF0000?style=for-the-badge&logo=laravel&logoColor=white&cacheSeconds=3600" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>➕ Próximo projeto</h3>
+      <p>
+        Espaço reservado para o seu próximo projeto em destaque — atualize aqui conforme for construindo novas soluções.
+      </p>
+      <p>
+        <strong>Stack:</strong> —
+      </p>
+      <a href="https://github.com/Vickthor1">
+        <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-000000?style=for-the-badge&logo=github&logoColor=FF0000&cacheSeconds=3600" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Evolução técnica
+
+<table>
+  <tr>
+    <td><strong>FastAPI</strong></td>
+    <td>Arquitetura em camadas, regras de negócio, máquinas de estado e validação de domínio</td>
+  </tr>
+  <tr>
+    <td><strong>SQLAlchemy / PostgreSQL</strong></td>
+    <td>Modelagem de dados, migrations versionadas e queries com controle de concorrência</td>
+  </tr>
+  <tr>
+    <td><strong>Laravel / PHP</strong></td>
+    <td>Aplicações web, integrações com APIs externas e autorização por usuário</td>
+  </tr>
+  <tr>
+    <td><strong>Pytest</strong></td>
+    <td>Testes automatizados, fixtures, isolamento de ambiente e cobertura de casos de borda</td>
+  </tr>
+  <tr>
+    <td><strong>Docker</strong></td>
+    <td>Ambientes containerizados simulando cenários de produção</td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td>Versionamento, documentação técnica e organização de portfólio</td>
+  </tr>
+</table>
+
+---
+
+## Formação e estudos
+
+- Cursando Engenharia de Software
+- Projetos práticos em Backend com Python e FastAPI
+- Projetos práticos em Full Stack com Laravel, PHP, JavaScript e React
+- Desenvolvimento de portfólio no GitHub
+- Interesse em arquitetura de sistemas, automação e criação de produtos
+
+---
+
+<div align="center">
+
+## GitHub Analytics
+
+<p>
+  Estatísticas do meu perfil, repositórios, linguagens e evolução no GitHub.
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vickthor1&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickthor1&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" width="43%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Vickthor1&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vickthor1&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## Cobrinha dos commits
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vickthor1/Vickthor1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## Próximos focos
+
+- Evoluir projetos com FastAPI e arquitetura em camadas
+- Melhorar documentação e testes dos repositórios
+- Publicar projetos com deploy real (Docker + cloud)
+- Desenvolver projetos voltados para problemas reais
+- Buscar oportunidades na área de Backend e Full Stack
+
+---
+
+<div align="center">
+
+<p><b>Visitors Count</b></p>
+<img src="https://komarev.com/ghpvc/?username=Vickthor1&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge"/>
+
+<br/><br/>
+
+### Obrigado por visitar meu perfil.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer" />
+
 </div>
