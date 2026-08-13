@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&" />
 
+# Portfolio
 <a href="https://vickthor1.github.io/portfolio/" target="_blank">
   <img src="https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/assets/logo.png" width="90" style="border-radius: 50%;" alt="Victor Hugo Logo" />
 </a>
@@ -15,9 +16,6 @@ Construindo APIs robustas, sistemas web e soluções reais com foco em evoluçã
 
 <br/>
 
-<a href="https://vickthor1.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-Ver%20Projetos-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white&cacheSeconds=3600" />
-</a>
 <a href="https://www.linkedin.com/in/victor-hugo-fassini-de-oliveira-457653207" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Victor%20Hugo-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000&cacheSeconds=3600" />
 </a>
