@@ -210,9 +210,6 @@ Busco oportunidades como:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vickthor1&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-
 </div>
 
 ---
